@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_cuisine_quebecoise"
+            android:layout_width="380dp"
+            android:layout_height="118dp"
+            android:layout_margin="10dp"
+            android:gravity="center"
+            android:text="Cours de cuisine \n Quebecoise"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/button_contact1"
+            android:layout_width="221dp"
+            android:layout_height="73dp"
+            android:backgroundTint="#808080"
+            android:layout_gravity="center"
+            android:text="S'inscrire"
+            android:onClick="openContactActivity"/>
+
+        <TextView
+            android:id="@+id/tv_cuisine_francaise"
+            android:layout_width="380dp"
+            android:layout_height="118dp"
+            android:layout_margin="10dp"
+            android:gravity="center"
+            android:text="Cours de cuisine \n francaise"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/button_contact2"
+            android:layout_width="221dp"
+            android:layout_height="73dp"
+            android:backgroundTint="#808080"
+            android:layout_gravity="center"
+            android:text="S'inscrire"
+            android:onClick="openContactActivity"/>
+
+        <TextView
+            android:id="@+id/tv_cuisine_marocaine"
+            android:layout_width="380dp"
+            android:layout_height="118dp"
+            android:layout_margin="10dp"
+            android:gravity="center"
+            android:text="Cours de cuisine \n marocaine"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/button_contact3"
+            android:layout_width="221dp"
+            android:layout_height="73dp"
+            android:layout_gravity="center"
+            android:backgroundTint="#808080"
+            android:text="S'inscrire" />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical">
+
+        <com.example.tprecette.view.CuisineTypeView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            app:cuisine="Marocaine"
+            app:pays="maroc" />
+
+        <com.example.tprecette.view.CuisineTypeView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            app:cuisine="Française"
+            app:pays="france" />
+
+        <com.example.tprecette.view.CuisineTypeView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            app:cuisine="Quebecois"
+            app:pays="quebec" />
+
+<!--        <Button-->
+<!--            android:id="@+id/button_cours_cuisine"-->
+<!--            android:layout_width="242dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_gravity="center"-->
+<!--            android:backgroundTint="#808080"-->
+<!--            android:text="Suivre des cours de cuisine" />-->
+    </LinearLayout>
+
+</ScrollView>

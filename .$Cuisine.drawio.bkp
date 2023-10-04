@@ -1,0 +1,151 @@
+<mxfile host="Electron" modified="2023-05-28T18:49:11.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="GeWllaRl49Kpr-O7HiKR" version="21.2.8" type="device">
+  <diagram name="Page-1" id="eYNsXmMQqoa4XI64GCwB">
+    <mxGraphModel dx="778" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jhdVVqk1T00AznI-LJh0-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="50" width="200" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-2" value="Liste de cusine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-3" value="Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-4" value="Cuisine Quebecoise" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-5" value="Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-6" value="Cuisine Francaise" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="295" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-7" value="Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-8" value="Cuisine Marocaine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="390" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="50" width="200" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-10" value="Recette de cuisine Quebecoise" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-11" value="Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="120" width="10" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.96;entryY=0.263;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jhdVVqk1T00AznI-LJh0-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="120" as="sourcePoint" />
+            <mxPoint x="580" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-15" value="Scroll view" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-16" value="Recette" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-17" value="Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-18" value="Recette" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-19" value="retour" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="530" width="200" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-22" value="DetailProduit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="570" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-23" value="Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="610" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-24" value="Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="610" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-25" value="Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="660" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-26" value="- Name&lt;br&gt;-Description&lt;br&gt;-Ingredient&lt;br&gt;-Etape de production&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="725" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-28" value="retour" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="880" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-29" value="Contact" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="570" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="530" width="200" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="620" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-33" value="Name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="615" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-34" value="Prenom" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="660" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-36" value="Telephone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="695" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="700" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-38" value="Courriel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-40" value="Ecrivez-nous" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="780" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="810" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-42" value="Soumettre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="890" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-43" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="200" height="445" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-44" value="Formation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="560" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-45" value="Cours de cuisine&lt;br&gt;Quebecoise" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="600" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-46" value="Cours de cuisine&lt;br&gt;Francaise" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="695" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-48" value="Decouvrir" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="657.5" y="650" width="85" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-51" value="Decouvrir" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="657.5" y="750" width="85" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-52" value="Decouvrir" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="657.5" y="865" width="85" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="jhdVVqk1T00AznI-LJh0-54" value="Cours de cuisine&lt;br&gt;marocaine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="800" width="130" height="45" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
