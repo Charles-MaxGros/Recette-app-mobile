@@ -29,4 +29,5 @@ Créer un formulaire pour contacter et choisir un cours. Ces données seront ré
 
 ![projet1](./projet3_5.PNG)
 
-Equipe : Evan, Taoufiq
+### Équipe
+Evan Cholette | Taoufik Boussemousse 
