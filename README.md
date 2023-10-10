@@ -28,3 +28,5 @@ On peut modifier une image ou un texte.
 Créer un formulaire pour contacter et choisir un cours. Ces données seront récupérées par la base de données.
 
 ![projet1](./projet3_5.PNG)
+
+Equipe : Evan, Taoufiq
